@@ -11,6 +11,8 @@ This repository contains code for implementing a Convolutional Neural Network (C
 
 
 ![OVERVIEW](https://github.com/anamel-vd/FINAL-PROJECT/blob/main/CNN.png)
+Retrived from: https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks
+
 
 ## 2. Dataset
 
