@@ -10,7 +10,7 @@ Team: Ana Melissa Valladares and Johannes Kessel
 This repository contains code for implementing a Convolutional Neural Network (CNN) model for multivariate classification using Keras and TensorFlow. The model is designed to work with multivariate datasets, where each instance has multiple features.
 
 
-![CNN model](github.com/anamel-vd/FINAL-PROJECT/blob/main/CNN.png)
+![OVERVIEW](https://github.com/anamel-vd/FINAL-PROJECT/blob/main/CNN.png)
 
 ## 2. Dataset
 
