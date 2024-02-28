@@ -43,6 +43,7 @@ During model training, the sequential model undergoes an iterative process aimed
 
 ## 3.5 Model evaluation
 
+After training, the model's performance is evaluated on both the training and test sets using accuracy as a metric. This assessment measures the proportion of correctly classified instances, providing insights into the model's ability to generalize to new data.
 
 
 
